@@ -8,9 +8,9 @@ profile:
   align: right
   image: weiyong2.jpg
   address: >
-    <p>Kärki Aa358.1</p>
-    <p>Mattilanniemi 6</p>
-    <p>Jyväskylä, Finland</p>
+#    <p>Kärki Aa358.1</p>
+#    <p>Mattilanniemi 6</p>
+#    <p>Jyväskylä, Finland</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

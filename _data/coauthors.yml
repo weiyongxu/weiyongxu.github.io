@@ -1,18 +1,15 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Hämäläinen":
+  - firstname: ["Jarmo", "J.", "J. A.", "Jarmo Arvid","Jarmo A"]
+    url: https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/hamalainen-jarmo
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Kolozsvári":
+  - firstname: ["Orsolya", "O.", "O. B.", "Orsolya Beatrix","Orsolya B"]
+    url: https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/kolozsvari-orsolya
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Kolozsvari":
+  - firstname: ["Orsolya", "O.", "O. B.", "Orsolya Beatrix","Orsolya B"]
+    url: https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/kolozsvari-orsolya
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Oostenveld":
+  - firstname: ["Robert", "R."]
+    url: https://www.ru.nl/english/people/oostenveld-r/
