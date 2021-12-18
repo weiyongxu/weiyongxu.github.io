@@ -14,6 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon
 url: https://weiyongxu.github.io/ # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -231,6 +232,7 @@ jekyll-diagrams:
     # configuration, see https://github.com/zhustec/jekyll-diagrams.
     # feel free to comment out this section if not using jekyll diagrams.
 
+
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
@@ -247,6 +249,7 @@ enable_navbar_social:       false  # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+
 
 # -----------------------------------------------------------------------------
 # Library versions
