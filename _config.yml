@@ -74,28 +74,18 @@ contact_note: >
   Feel free to contact me on anything you find interesting :)
 #  You can even add a little note about which of these is the best way to reach you.
 
-<<<<<<< HEAD
 google_analytics: UA-43042670-1 # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
-=======
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
->>>>>>> f7274c0dab0aed6b0b1c0d7534779546478d1910
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
-blog_name: # your blog must have a name for it to show up in the nav bar 
-blog_description: a place to share my experiences and thoughts
-=======
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Weiyong Xu # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
->>>>>>> f7274c0dab0aed6b0b1c0d7534779546478d1910
+blog_description: a place to share my experiences and thoughts
 permalink: /blog/:year/:title/
 
 # Pagination
