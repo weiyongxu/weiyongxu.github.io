@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoctoral researcher @ <a href="https://www.jyu.fi/en">University of Jyväskylä</a>.
+subtitle: Postdoctoral researcher @ <a href="https://www.jyu.fi/en">University of Jyväskylä</a>.
 
 profile:
   align: right
