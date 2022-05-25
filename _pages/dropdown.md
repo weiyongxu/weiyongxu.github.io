@@ -10,4 +10,3 @@ children:
     - title: divider
     - title: projects
       permalink: /projects/
----
