@@ -7,6 +7,7 @@ subtitle: Postdoctoral researcher @ <a href="https://www.jyu.fi/en">University o
 profile:
   align: right
   image: weiyong2.jpg
+  image_cicular: false # crops the image to make it circular
   address: >
 #    <p>Kärki Aa358.1</p>
 #    <p>Mattilanniemi 6</p>
