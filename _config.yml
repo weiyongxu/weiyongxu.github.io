@@ -70,6 +70,7 @@ gitlab_username: # your GitLab user name
 twitter_username: weiyong_xu # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: IwQ2wdsAAAAJ&hl # your Google Scholar ID
+semanticscholar_id: # your Semantic Scholar ID
 orcid_id: 0000-0003-4453-9836 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -80,7 +81,15 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
+stackoverflow_id: # your stackoverflow id
+kaggle_id: # your kaggle id
+lastfm_id: # your lastfm id
+spotify_id: # your spotify id
+pinterest_id: # your pinterest id
+unsplash_id: # your unsplash id
+instagram_id: # your instagram id
+facebook_id: # your facebook id
+discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
   Feel free to contact me on anything you find interesting :)
@@ -90,7 +99,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: UA-43042670-1 # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics:  G-279999385 # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -245,8 +254,10 @@ scholar:
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview]
 
-# Maximum number of authors to be shown, other authors will be visible on hover, leave blank to show all authors
-max_author_limit: 
+# Maximum number of authors to be shown for each publication (more authors are visible on click)
+max_author_limit:   # leave blank to always show all authors
+more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
+dd page
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
