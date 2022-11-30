@@ -15,14 +15,14 @@
       institution: Department of Psychology, University of Jyväskylä
       year: 2015 - 2020
       description:
-        - Thesis: <a href="https://jyx.jyu.fi/handle/123456789/71016">Brain activity changes related to learning of audiovisual associations in reading</a>
-        - Advisor: Prof. Jarmo Hämäläinen
+        - 'Thesis: <a href="https://jyx.jyu.fi/handle/123456789/71016">Brain activity changes related to learning of audiovisual associations in reading</a>'
+        - 'Advisor: Prof. Jarmo Hämäläinen'
     - title: M.S. in BME
       institution: Institute of Biomedical Engineering, Xi’an Jiaotong University
       year: 2013-2015
       description:
-        - Thesis: Functional connectivity and complex network analysis of the aging brain
-        - Advisor: Prof. Jin Xu
+        - 'Thesis: Functional connectivity and complex network analysis of the aging brain'
+        - 'Advisor: Prof. Jin Xu'
 
 - title: Experience
   type: time_table
