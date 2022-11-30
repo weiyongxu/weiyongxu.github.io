@@ -11,22 +11,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. (Psychology)
+      institution: Department of Psychology, University of Jyväskylä
+      year: 2015 - 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis: <a href="https://jyx.jyu.fi/handle/123456789/71016">Brain activity changes related to learning of audiovisual associations in reading</a>
+        - Advisor: Prof. Jarmo Hämäläinen
+    - title: M.S. in BME
+      institution: Institute of Biomedical Engineering, Xi’an Jiaotong University
+      year: 2013-2015
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Functional connectivity and complex network analysis of the aging brain
+        - Advisor: Prof. Jin Xu
 
 - title: Experience
   type: time_table
