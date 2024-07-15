@@ -1,6 +1,9 @@
 github_users:
   - weiyongxu
 
+repo_description_lines_max: 2
+
 github_repos:
   - weiyongxu/Grapheme-phoneme-Learning
   - weiyongxu/CIBA120-2022-Analyzing-EEG
+  - weiyongxu/FaceName-Brain
