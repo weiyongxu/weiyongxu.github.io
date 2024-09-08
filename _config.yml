@@ -81,7 +81,7 @@ flickr_id: # your flickr id
 github_username: weiyongxu # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -97,7 +97,7 @@ publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: Weiyong-Xu # your profile on ResearchGate
 scholar_userid: IwQ2wdsAAAAJ&hl # your Google Scholar ID
-scopus_id: # your profile on Scopus
+scopus_id: 57203818165 # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
@@ -107,7 +107,7 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: +358468448471 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
+work_url: https://www.jyu.fi/en/people/weiyong-xu # work page URL
 x_username: weiyong_xu # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
