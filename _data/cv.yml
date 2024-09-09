@@ -29,13 +29,11 @@
       year: 2020 - 2022
       description:
         - Research topics - Bodily rhythms and learning
-        - PI - Miriam Nokia
     - title: Doctoral Student
       institution: Department of Psychology, University of Jyväskylä
       year: 2015 - 2020
       description:
         - Research topics - Brain activity changes related to learning of audiovisual associations in reading
-        - Supervisor - Prof. Jarmo Hämäläinen
 
 - title: Education
   type: time_table
@@ -45,26 +43,23 @@
       year: 2015 - 2020
       description:
         - Thesis - Brain activity changes related to learning of audiovisual associations in reading
-        - Advisor - Prof. Jarmo Hämäläinen
     - title: Master's degree in Biomedical Engineering
       institution: Institute of Biomedical Engineering, Xi'an Jiaotong University
       year: 2013 - 2015
       description:
         - Thesis - Functional connectivity and complex network analysis of the aging brain
-        - Advisor - Prof. Jin Xu
     - title: Bachelor's degree in Biomedical Engineering
       institution: School of Life Science and Technology, Xi'an Jiaotong University
       year: 2009 - 2013
       description:
         - Thesis - EEG functional connectivity of vascular dementia patients in an oddball task
-        - Advisor - Prof. Jin Xu
 
 - title: Funding
   type: time_table
   contents:
     - year: 2022 - 2025
       items:
-        - Academy of Finland Postdoctoral project grant (Memory reorganization during rest and sleep)
+        - Academy of Finland Postdoctoral project
 
 - title: Awards and honours
   type: time_table
@@ -75,83 +70,6 @@
     - year: 2010 - 2013
       items:
         - Siyuan Student Scholarship (Xi'an Jiaotong University)
-
-- title: Conference Talks and Presentations
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - Xu, W., Parviainen, T. & Nokia, M. (2022). Neural correlates of metamemory in a face-name associative learning task. Poster presented at the International Conference of Cognitive Neuroscience (ICON), Helsinki, Finland.
-    - year: 2021
-      items:
-        - Xu, W., Kolozsvari, O. B., Sorsa, A., Nokia, M. & Hämäläinen, J. A. (2021). Differential brain processes of newly learned and overlearned audiovisual associations. Poster presented at the Brain and Language conference 2021, Jyvaskyla, Finland.
-    - year: 2019
-      items:
-        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2019). Changes in brain activity during learning of grapheme-phoneme associations. Poster presented at the Society for the Neurobiology of Language (SNL) 2019 conference, Helsinki, Finland.
-        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2019). Changes in brain activity during learning of grapheme-phoneme associations. Poster presented at MEG Nord 2019 conference, Jyvaskyla, Finland.
-    - year: 2018
-      items:
-        - Xu, W., Kolozsvari, O. B., Monto, S. P., & Hämäläinen, J. A. (2018). Brain Responses to Letters and Speech Sounds and Their Correlations With Cognitive Skills Related to Reading in Children. Talk presented at ChildBrain conference, Leuven, Belgium.
-        - Xu, W., Kolozsvari, O. B., Monto, S. P., & Hämäläinen, J. A. (2018). Brain Responses to Letters and Speech Sounds and Their Correlations With Cognitive Skills Related to Reading in Children. Poster presented at the Society for Neuroscience conference (SFN 2018), San Diego, USA.
-        - Xu, W., Kolozsvari, O. B., Monto, S. P., & Hämäläinen, J. A. (2018). Brain Responses to Letters and Speech Sounds and Their Correlations With Cognitive Skills Related to Reading in Children. Poster presented at The International Summer School "Life after PhD", Jyväskylä, Finland.
-        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2018). Audiovisual processing of Chinese characters elicits integration and congruency effects in MEG. Talk Presented at MEG Nord 2018 conference, Stockholm, Sweden.
-    - year: 2017
-      items:
-        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2017). Long-term learning effect on audio-visual processing of Chinese characters. Poster presented at International Conference on Cognitive Science (ICCS 2017), Taipei, Taiwan.
-        - Xu, W., Kolozsvari, O. B., Monto, S. P., & Hämäläinen, J. A. (2017). Development of audio-visual integration in children. Poster presented at The International Summer School "Understanding Learning in the Brain", Jyväskylä, Finland.
-        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2017). Audio-visual processing of written characters and speech sounds. Poster presented at MEG Nord 2017 conference, Aarhus, Denmark.
-    - year: 2016
-      items:
-        - Xu, W., Kolozsvari, O. B., Oostenveld, R., Leppänen, P. H. T., & Hamalainen, J. A. (2016). Audio-visual processing of Chinese characters and speech sounds. Poster presented at Biomag 2016 conference, Seoul, Korea.
-
-- title: Conference Participations
-  type: time_table
-  contents:
-    - year: 2023
-      items:
-        - MEG Nord Conference 2023
-    - year: 2022
-      items:
-        - Behavioral and Brain Science Seminar @JYU
-    - year: 2021
-      items:
-        - MEG Nord Conference 2021
-    - year: 2020
-      items:
-        - LiveMEEG online conference
-    - year: 2018
-      items:
-        - 6th Annual Research Seminar of CIBR, Jyväskylä, Finland
-        - ChildBrain 6th workshop in Nijmegen, Donders Institute
-    - year: 2017
-      items:
-        - 5th Annual Research Seminar of CIBR, Jyväskylä, Finland
-        - ChildBrain 5th workshop in Aston, Birmingham, UK
-        - Nordic and Baltic Doctoral Programmes in Psychology Joint Symposium, Tartu, Estonia
-        - ChildBrain 4th workshop in Nijmegen, Donders Institute
-    - year: 2016
-      items:
-        - 4th Annual Research Seminar of CIBR, Jyväskylä, Finland
-        - ChildBrain 3rd workshop in Leuven, Leuven, Belgium
-        - Winter School on Neural Mechanisms of Learning, Jyväskylä, Finland
-    - year: 2015
-      items:
-        - ForLearning International Symposium on Learning and Learning Difficulties, Jyväskylä, Finland
-        - ChildBrain 1st workshop in Munster, Munster, Germany
-
-- title: International Mobility
-  type: time_table
-  contents:
-    - year: Jul 2016
-      items:
-        - Place - Donders Institute for Brain, Cognition and Behaviour, Nijmegen, Netherlands
-        - Supervisor - Prof. Robert Oostenveld
-        - Activity - Learn MEG data analysis methods (e.g. MEG source analysis with MRI templates)
-    - year: Feb 2018
-      items:
-        - Place - Aston Brain Center, Birmingham, UK
-        - Supervisor - Prof. Joel B. Talcott and Dr. Caroline Witton
-        - Activity - Learn child MEG and MRI measurements and data analysis
 
 - title: Teaching Merits
   type: time_table
@@ -180,24 +98,6 @@
       items:
         - Introduction to scripting experiments with Presentation (instructor)
 
-- title: Outreach Activities
-  type: time_table
-  contents:
-    - year: 2020-21
-      items:
-        - Researcher's night event at JYU (Design of an online memory game)
-    - year: 2017
-      items:
-        - Researcher's night event at JYU (Help with event arrangements)
-        - MEG lab visits for Finnish high school students, Bachelor and Master level students
-        - MEG lab visit for the Finnish Psychology Students' Association (SPOL)
-        - Student Spring Day (Poster presentation to recruit MA thesis students)
-    - year: 2016
-      items:
-        - Researcher's night event at JYU (poster presentation)
-        - Introductory video about MEG measurements for the children and parents
-        - Brain awareness week event "Developing Brain" at JYU (Poster presentation)
-
 - title: Service
   type: nested_list
   contents:
@@ -207,11 +107,3 @@
         - Frontiers in Psychology
         - Journal of Neuroscience
         - Child Development
-
-- title: Linguistic Skills
-  type: list
-  contents:
-    - name: Chinese
-      value: Native
-    - name: English
-      value: Proficient
