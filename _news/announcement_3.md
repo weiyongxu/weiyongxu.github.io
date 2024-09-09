@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Build my fisrt academic website with Jekyll and GitHub Pages.✨ 
+Build my fisrt academic website with Jekyll and GitHub Pages.✨

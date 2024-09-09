@@ -1,19 +1,19 @@
 "Hämäläinen":
-  - firstname: ["Jarmo", "J.", "J. A.", "Jarmo Arvid","Jarmo A"]
+  - firstname: ["Jarmo", "J.", "J. A.", "Jarmo Arvid", "Jarmo A"]
     url: https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/hamalainen-jarmo
 
 "Kolozsvári":
-  - firstname: ["Orsolya", "O.", "O. B.", "Orsolya Beatrix","Orsolya B"]
+  - firstname: ["Orsolya", "O.", "O. B.", "Orsolya Beatrix", "Orsolya B"]
     url: https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/kolozsvari-orsolya
-    
+
 "Kolozsvari":
-  - firstname: ["Orsolya", "O.", "O. B.", "Orsolya Beatrix","Orsolya B"]
+  - firstname: ["Orsolya", "O.", "O. B.", "Orsolya Beatrix", "Orsolya B"]
     url: https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/kolozsvari-orsolya
 
 "Oostenveld":
   - firstname: ["Robert", "R."]
     url: https://www.ru.nl/english/people/oostenveld-r/
-    
+
 "Nokia":
-  - firstname: ["Miriam", "M.","Miriam S"]
+  - firstname: ["Miriam", "M.", "Miriam S"]
     url: https://www.jyu.fi/fi/henkilot/miriam-nokia
