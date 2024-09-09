@@ -3,62 +3,213 @@
   contents:
     - name: Full Name
       value: Weiyong Xu
-    - name: Working Address
+    - name: Department
+      value: Department of Psychology, University of Jyväskylä
+    - name: Address
       value: Kärki Aa358.1, Mattilanniemi 6, Jyväskylä, Finland
-    - name: Phone
-      value: "+358468448471"
     - name: Email
       value: weiyong.w.xu@jyu.fi
+    - name: Phone
+      value: +358468448471
     - name: Website
       value: https://weiyongxu.github.io/
+    - name: ORCID
+      value: 0000-0003-4453-9836
+    - name: Languages
+      value: Chinese (Native), English (Proficient)
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. (Psychology)
-      institution: Department of Psychology, University of Jyväskylä
-      year: 2015 - 2020
-      description:
-        - 'Thesis: <a href="https://jyx.jyu.fi/handle/123456789/71016">Brain activity changes related to learning of audiovisual associations in reading</a>'
-        - "Advisor: Prof. Jarmo Hämäläinen"
-    - title: M.S. in BME
-      institution: Institute of Biomedical Engineering, Xi’an Jiaotong University
-      year: 2013-2015
-      description:
-        - "Thesis: Functional connectivity and complex network analysis of the aging brain"
-        - "Advisor: Prof. Jin Xu"
-    - title: B.S. in BME
-      institution: School of Life Science and Technology, Xi’an Jiaotong University
-      year: 2009-2013
-      description:
-
-- title: Working Experience
+- title: Position and Education
   type: time_table
   contents:
     - title: Postdoctoral Researcher
       institution: Department of Psychology, University of Jyväskylä
       year: 2022 - 2025
       description:
-        - "Research topics: The reorganization of memory representations during rest and sleep"
+        - Research topics - The reorganization of memory representations during rest and sleep
     - title: Postdoctoral Researcher
       institution: Department of Psychology, University of Jyväskylä
-      year: 2020 - 2022
+      year: 2020 - 2021
       description:
-        - "Research topics: Bodily rhythms and learning"
-        - "PI: Miriam Nokia"
+        - Research topics - Bodily rhythms and learning
+        - PI - Miriam Nokia
+    - title: Ph.D. in Psychology
+      institution: Department of Psychology, University of Jyväskylä
+      year: 2015 - 2020
+      description:
+        - Thesis - Brain activity changes related to learning of audiovisual associations in reading
+        - Advisor - Prof. Jarmo Hämäläinen
+    - title: M.S. in Biomedical Engineering
+      institution: Institute of Biomedical Engineering, Xi'an Jiaotong University
+      year: 2013 - 2015
+      description:
+        - Thesis - Functional connectivity and complex network analysis of the aging brain
+        - Advisor - Prof. Jin Xu
+    - title: B.S. in Biomedical Engineering
+      institution: School of Life Science and Technology, Xi'an Jiaotong University
+      year: 2009 - 2013
 
 - title: Funding and Awards
   type: time_table
   contents:
-    - title: Postdoctoral Researcher funded by Academy of Finland
-      year: 2022-2025
-      description:
-    - title: Marie Curie Early Stage Researcher Fellowship
-      year: 2015 - 2019
-      description:
-    - title: Siyuan Student Scholarship (Xi’an Jiaotong University)
-      year: 2010 - 2013
-      description:
+    - year: 2020 - 2021
+      items: 
+        - Postdoctoral Researcher funded by Academy of Finland
+    - year: 2015 - 2019
+      items:
+        - Marie Curie Early Stage Researcher Fellowship (ChildBrain European Training Network)
+    - year: 2010 - 2013
+      items:
+        - Siyuan Student Scholarship (Xi'an Jiaotong University)
+
+- title: Publications
+  type: nested_list
+  contents:
+    - title: Peer-reviewed papers
+      items:
+        - Waselius, T., Xu, W., Sparre, J. I., Penttonen, M., & Nokia, M. S. (2022). Cardiac cycle and respiration phase affect responses to the conditioned stimulus in young adults trained in trace eyeblink conditioning. Journal of Neurophysiology, 127(3), 767-775.
+        - Kolozsvári, O. B., Xu, W., Gerike, G., Parviainen, T., Nieminen, L., Noiray, A., & Hämäläinen, J. A. (2021). Coherence between brain activation and speech envelope at word and sentence levels showed age-related differences in low frequency bands. Neurobiology of Language, 1-62.
+        - Xu, W., Kolozsvari, O. B., Oostenveld, R., & Hamalainen, J. A. (2020). Rapid changes in brain activity during learning of grapheme-phoneme associations in adults. NeuroImage, 220, 117058.
+        - Hsu, Y. F., Xu, W., Parviainen, T., & Hämäläinen, J. A. (2020). Context-dependent minimisation of prediction errors involves temporal-frontal activation. NeuroImage, 207, 116355.
+        - Chiang, C. H., Hamalainen, J., Xu, W., & Wang, H. L. (2020). Neural responses to musical rhythm in Chinese children with reading difficulties. Frontiers in Psychology, 11, 1013.
+        - Kolozsvari, O. B., Xu, W., Leppänen, P. H. T., & Hamalainen, J. A. (2019). Top-down predictions of familiarity and congruency in audio-visual speech perception at neural level. Frontiers in human neuroscience, 13, 243.
+        - Xu, W., Kolozsvari, O. B., Oostenveld, R., Leppänen, P. H. T., & Hamalainen, J. A. (2019). Audiovisual Processing of Chinese Characters Elicits Suppression and Congruency Effects in MEG. Frontiers in Human Neuroscience, 13, 18.
+        - Xu, W., Kolozsvari, O. B., Monto, S. P., & Hämäläinen, J. A. (2018). Brain Responses to Letters and Speech Sounds and Their Correlations With Cognitive Skills Related to Reading in Children. Frontiers in human neuroscience, 12, 304.
+        - Teng, C., Cheng, Y., Wang, C., Ren, Y., Xu, W., & Xu, J. (2018). Aging-related changes of EEG synchronization during a visual working memory task. Cognitive neurodynamics, 12(6), 561-568.
+        - Kong, Y., Yuan, J., Wang, Z., Hou, Z., Yu, J., Jin, H., Xie, M., Chang, N., Xu, W., Zhao, Y. and Tang, Y., 2014. Assay of melamine in milk products with a pH‐mediated stacking technique in capillary electrophoresis. Journal of separation science, 37(6), 717-724.
+    - title: Thesis
+      items:
+        - Xu, W. (2020). Brain activity changes related to learning of audiovisual associations in reading. JYU dissertations.
+
+- title: Conference Talks and Presentations
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Xu, W., Parviainen, T. & Nokia, M. (2022). Neural correlates of metamemory in a face-name associative learning task. Poster presented at the International Conference of Cognitive Neuroscience (ICON), Helsinki, Finland.
+    - year: 2021
+      items:
+        - Xu, W., Kolozsvari, O. B., Sorsa, A., Nokia, M. & Hämäläinen, J. A. (2021). Differential brain processes of newly learned and overlearned audiovisual associations. Poster presented at the Brain and Language conference 2021, Jyvaskyla, Finland.
+    - year: 2019
+      items:
+        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2019). Changes in brain activity during learning of grapheme-phoneme associations. Poster presented at the Society for the Neurobiology of Language (SNL) 2019 conference, Helsinki, Finland.
+        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2019). Changes in brain activity during learning of grapheme-phoneme associations. Poster presented at MEG Nord 2019 conference, Jyvaskyla, Finland.
+    - year: 2018
+      items:
+        - Xu, W., Kolozsvari, O. B., Monto, S. P., & Hämäläinen, J. A. (2018). Brain Responses to Letters and Speech Sounds and Their Correlations With Cognitive Skills Related to Reading in Children. Talk presented at ChildBrain conference, Leuven, Belgium.
+        - Xu, W., Kolozsvari, O. B., Monto, S. P., & Hämäläinen, J. A. (2018). Brain Responses to Letters and Speech Sounds and Their Correlations With Cognitive Skills Related to Reading in Children. Poster presented at the Society for Neuroscience conference (SFN 2018), San Diego, USA.
+        - Xu, W., Kolozsvari, O. B., Monto, S. P., & Hämäläinen, J. A. (2018). Brain Responses to Letters and Speech Sounds and Their Correlations With Cognitive Skills Related to Reading in Children. Poster presented at The International Summer School "Life after PhD", Jyväskylä, Finland.
+        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2018). Audiovisual processing of Chinese characters elicits integration and congruency effects in MEG. Talk Presented at MEG Nord 2018 conference, Stockholm, Sweden.
+    - year: 2017
+      items:
+        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2017). Long-term learning effect on audio-visual processing of Chinese characters. Poster presented at International Conference on Cognitive Science (ICCS 2017), Taipei, Taiwan.
+        - Xu, W., Kolozsvari, O. B., Monto, S. P., & Hämäläinen, J. A. (2017). Development of audio-visual integration in children. Poster presented at The International Summer School "Understanding Learning in the Brain", Jyväskylä, Finland.
+        - Xu, W., Kolozsvari, O. B. & Hämäläinen, J. A. (2017). Audio-visual processing of written characters and speech sounds. Poster presented at MEG Nord 2017 conference, Aarhus, Denmark.
+    - year: 2016
+      items:
+        - Xu, W., Kolozsvari, O. B., Oostenveld, R., Leppänen, P. H. T., & Hamalainen, J. A. (2016). Audio-visual processing of Chinese characters and speech sounds. Poster presented at Biomag 2016 conference, Seoul, Korea.
+
+- title: Conference Participations
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - MEG Nord Conference 2023
+    - year: 2022
+      items:
+        - Behavioral and Brain Science Seminar @JYU
+    - year: 2021
+      items:
+        - MEG Nord Conference 2021
+    - year: 2020
+      items:
+        - LiveMEEG online conference
+    - year: 2018
+      items:
+        - 6th Annual Research Seminar of CIBR, Jyväskylä, Finland
+        - ChildBrain 6th workshop in Nijmegen, Donders Institute
+    - year: 2017
+      items:
+        - 5th Annual Research Seminar of CIBR, Jyväskylä, Finland
+        - ChildBrain 5th workshop in Aston, Birmingham, UK
+        - Nordic and Baltic Doctoral Programmes in Psychology Joint Symposium, Tartu, Estonia
+        - ChildBrain 4th workshop in Nijmegen, Donders Institute
+    - year: 2016
+      items:
+        - 4th Annual Research Seminar of CIBR, Jyväskylä, Finland
+        - ChildBrain 3rd workshop in Leuven, Leuven, Belgium
+        - Winter School on Neural Mechanisms of Learning, Jyväskylä, Finland
+    - year: 2015
+      items:
+        - ForLearning International Symposium on Learning and Learning Difficulties, Jyväskylä, Finland
+        - ChildBrain 1st workshop in Munster, Munster, Germany
+
+- title: International Mobility
+  type: time_table
+  contents:
+    - year: Jul 2016
+      items:
+        - Place - Donders Institute for Brain, Cognition and Behaviour, Nijmegen, Netherlands
+        - Supervisor - Prof. Robert Oostenveld
+        - Activity - Learn MEG data analysis methods (e.g. MEG source analysis with MRI templates)
+    - year: Feb 2018
+      items:
+        - Place - Aston Brain Center, Birmingham, UK
+        - Supervisor - Prof. Joel B. Talcott and Dr. Caroline Witton
+        - Activity - Learn child MEG and MRI measurements and data analysis
+
+- title: Teaching Merits
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - PSYS2102 Master's thesis ending seminar
+    - year: 2022
+      items:
+        - CNSJ1202 Designing cognitive neuroscience research (instructor)
+        - CIBA120 EEG data analysis Demo using MNE Python
+    - year: 2021
+      items:
+        - CIPA113 Bilingual Development (essays grading)
+        - CIPA112 Psychology of Language (essays grading)
+    - year: 2019
+      items:
+        - CIPA213 Developmental Language Related Disorders (instructor)
+    - year: 2016 – 2019
+      items:
+        - CIPA100 Psychology Research at JYU (essays grading)
+    - year: 2017
+      items:
+        - PSYS123 Neuropsychology 3B MEG demonstrations (instructor)
+    - year: 2016
+      items:
+        - Introduction to scripting experiments with Presentation (instructor)
+
+- title: Outreach Activities
+  type: time_table
+  contents:
+    - year: 2020-21
+      items:
+        - Researcher's night event at JYU (Design of an online memory game)
+    - year: 2017
+      items:
+        - Researcher's night event at JYU (Help with event arrangements)
+        - MEG lab visits for Finnish high school students, Bachelor and Master level students
+        - MEG lab visit for the Finnish Psychology Students' Association (SPOL)
+        - Student Spring Day (Poster presentation to recruit MA thesis students)
+    - year: 2016
+      items:
+        - Researcher's night event at JYU (poster presentation)
+        - Introductory video about MEG measurements for the children and parents
+        - Brain awareness week event "Developing Brain" at JYU (Poster presentation)
+
+- title: Service
+  type: nested_list
+  contents:
+    - title: Ad Hoc Reviewer
+      items:
+        - NeuroImage
+        - Frontiers in Psychology
+        - Journal of Neuroscience
 
 - title: Technical Skills
   type: nested_list
@@ -69,20 +220,14 @@
         - Matlab
         - bash
         - C++
-    - title: Tools
-      items:
-        - Linux
-        - Git
-        - Fieldtrip
-        - MNE Python
     - title: Markup
       items:
         - Markdown
         - HTML
         - CSS
-
-- title: Languages
-  type: list
-  contents:
-    - Chinese (Native)
-    - English (Proficient)
+    - title: Tools
+      items:
+        - Linux
+        - git
+        - Fieldtrip
+        - MNE Python
