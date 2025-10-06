@@ -6,7 +6,7 @@
     - name: Affiliation
       value: Department of Psychology, University of Jyväskylä
     - name: Address
-      value: Kärki Aa358.1, Mattilanniemi 6, Jyväskylä, Finland
+      value: Kärki Aa255, Mattilanniemi 6, Jyväskylä, Finland
     - name: Email
       value: weiyong.w.xu@jyu.fi
     - name: Phone
@@ -107,3 +107,10 @@
         - Frontiers in Psychology
         - Journal of Neuroscience
         - Child Development
+        - Journal of Neurolinguistics
+        - Computer Methods and Programs in Biomedicine
+        - Acta Psychologica
+        - npj Science of Learning
+        - the Journal of Open Source Software
+
+ 
