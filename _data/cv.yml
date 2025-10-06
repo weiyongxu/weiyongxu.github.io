@@ -54,6 +54,22 @@
       description:
         - Thesis - EEG functional connectivity of vascular dementia patients in an oddball task
 
+- title: Conferences
+  type: time_table
+  contents:
+    - title: ICON 2025
+      year: 2025
+      description:
+        - Oral talk in symposium - The learning brain across the lifespan neural resources, imaging indicators and relevance for cognitive competence
+    - title: FENS 2024
+      year: 2024
+      description:
+        - Poster
+    - title: Synchrony summer school 2024
+      year: 2024
+      description:
+        - Poster
+
 - title: Funding
   type: time_table
   contents:
@@ -71,7 +87,7 @@
       items:
         - Siyuan Student Scholarship (Xi'an Jiaotong University)
 
-- title: Teaching Merits
+- title: Teaching
   type: time_table
   contents:
     - year: 2023
@@ -111,4 +127,4 @@
         - Computer Methods and Programs in Biomedicine
         - Acta Psychologica
         - npj Science of Learning
-        - the Journal of Open Source Software
+        - Journal of Open Source Software
