@@ -4,7 +4,7 @@
 
 title: Weiyong Xu # the website title (if blank, full name will be used instead)
 first_name: Weiyong
-middle_name: 
+middle_name:
 last_name: Xu
 contact_note: >
   Feel free to contact me on anything you find interesting :)
@@ -96,7 +96,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)

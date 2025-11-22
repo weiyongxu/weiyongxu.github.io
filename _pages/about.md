@@ -9,7 +9,7 @@ profile:
   image: weiyong2.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-#    <p>Kärki Aa358.1</p>
+#    <p>Kärki Aa255</p>
 #    <p>Mattilanniemi 6</p>
 #    <p>Jyväskylä, Finland</p>
 
@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
