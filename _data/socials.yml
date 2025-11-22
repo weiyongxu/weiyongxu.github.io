@@ -15,7 +15,7 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: you@example.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: weiyongxu # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -29,15 +29,15 @@ inspirehep_id: 1010907 # Inspire HEP author ID
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
-# osf_id: # your OSF ID
+orcid_id: 0000-0003-4453-9836 # your ORCID ID
+osf_id: a4kw7 # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Weiyong-Xu # your profile on ResearchGate
 rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# scopus_id: # your profile on Scopus
+scholar_userid: IwQ2wdsAAAAJ&hl # your Google Scholar ID
+scopus_id: 57203818165 # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
@@ -45,11 +45,11 @@ scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# whatsapp_number: +358468448471 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-# work_url: # work page URL
-# x_username: # your X handle
+work_url: https://www.jyu.fi/en/people/weiyong-xu # work page URL
+x_username: weiyong_xu # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
