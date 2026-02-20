@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-20'
 papers:
   IwQ2wdsAAAAJ:4TOpqqG69KYC:
     citations: 1
@@ -45,6 +45,10 @@ papers:
     citations: 0
     title: "Neural signatures of automatic letter\u2013speech sound integration in literate adults"
     year: '2025'
+  IwQ2wdsAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: Development of brain responses to speech sounds and associations with reading and reading related skills in adults with childhood dyslexia
+    year: '2026'
   IwQ2wdsAAAAJ:eQOLeE2rZwMC:
     citations: 10
     title: Context-dependent minimisation of prediction errors involves temporal-frontal activation
