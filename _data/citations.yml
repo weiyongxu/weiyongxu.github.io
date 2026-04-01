@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-04-01'
 papers:
   IwQ2wdsAAAAJ:4TOpqqG69KYC:
-    citations: 1
+    citations: 2
     title: Dynamic changes in electrical brain activity during passive learning of foreign speech sound discrimination
     year: '2025'
   IwQ2wdsAAAAJ:8k81kl-MbHgC:
@@ -66,7 +66,7 @@ papers:
     title: 'Two-Day Artificial Orthography Learning MEG Dataset: From Grapheme to Meaning'
     year: '2025'
   IwQ2wdsAAAAJ:u-x6o8ySG0sC:
-    citations: 24
+    citations: 25
     title: Brain responses to letters and speech sounds and their correlations with cognitive skills related to reading in children
     year: '2018'
   IwQ2wdsAAAAJ:u5HHmVD_uO8C:
@@ -74,6 +74,6 @@ papers:
     title: "Assay of melamine in milk products with a pH\u2010mediated stacking technique in capillary electrophoresis"
     year: '2014'
   IwQ2wdsAAAAJ:ufrVoPGSRksC:
-    citations: 28
+    citations: 29
     title: Rapid changes in brain activity during learning of grapheme-phoneme associations in adults
     year: '2020'
