@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-06'
 papers:
+  IwQ2wdsAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: "Magnetoencephalography Source Connectivity Pipeline Reveals Long\u2010Range Connectivity in Audio\u2010Visual Integration"
+    year: '2026'
   IwQ2wdsAAAAJ:4TOpqqG69KYC:
-    citations: 2
+    citations: 3
     title: Dynamic changes in electrical brain activity during passive learning of foreign speech sound discrimination
     year: '2025'
   IwQ2wdsAAAAJ:8k81kl-MbHgC:
@@ -26,7 +30,7 @@ papers:
     title: "Optimizing learning-synchrony of the brain and body as a tool? Aivojen ja kehon synkronia oppimisen optimoimisen ty\xF6kaluna"
     year: '2024'
   IwQ2wdsAAAAJ:UeHWp8X0CEIC:
-    citations: 23
+    citations: 24
     title: Audiovisual processing of Chinese characters elicits suppression and congruency effects in MEG
     year: '2019'
   IwQ2wdsAAAAJ:YsMSGLbcyi4C:
@@ -74,6 +78,6 @@ papers:
     title: "Assay of melamine in milk products with a pH\u2010mediated stacking technique in capillary electrophoresis"
     year: '2014'
   IwQ2wdsAAAAJ:ufrVoPGSRksC:
-    citations: 29
+    citations: 30
     title: Rapid changes in brain activity during learning of grapheme-phoneme associations in adults
     year: '2020'
