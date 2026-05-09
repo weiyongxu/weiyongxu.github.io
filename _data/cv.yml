@@ -1,130 +1,109 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Weiyong Xu
-    - name: Affiliation
-      value: Department of Psychology, University of Jyväskylä
-    - name: Address
-      value: Kärki Aa255, Mattilanniemi 6, Jyväskylä, Finland
-    - name: Email
-      value: weiyong.w.xu@jyu.fi
-    - name: Phone
-      value: +358468448471
-    - name: Website
-      value: https://weiyongxu.github.io/
-    - name: ORCID
-      value: 0000-0003-4453-9836
+cv:
+  name: Weiyong Xu
+  label: Postdoctoral Researcher
+  email: weiyong.w.xu@jyu.fi
+  location: Jyväskylä, Finland
+  phone: "+358468448471"
+  website: https://weiyongxu.github.io/
 
-- title: Work Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Researcher
-      institution: Department of Psychology, University of Jyväskylä
-      year: 2022 - 2025
-      description:
-        - Research topics - The reorganization of memory representations during rest and sleep
-    - title: Postdoctoral Researcher
-      institution: Department of Psychology, University of Jyväskylä
-      year: 2020 - 2022
-      description:
-        - Research topics - Bodily rhythms and learning
-    - title: Doctoral Student
-      institution: Department of Psychology, University of Jyväskylä
-      year: 2015 - 2020
-      description:
-        - Research topics - Brain activity changes related to learning of audiovisual associations in reading
+  social_networks:
+    - network: ORCID
+      username: 0000-0003-4453-9836
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Doctor of Philosophy
-      institution: Department of Psychology, University of Jyväskylä
-      year: 2015 - 2020
-      description:
-        - Thesis - Brain activity changes related to learning of audiovisual associations in reading
-    - title: Master's degree in Biomedical Engineering
-      institution: Institute of Biomedical Engineering, Xi'an Jiaotong University
-      year: 2013 - 2015
-      description:
-        - Thesis - Functional connectivity and complex network analysis of the aging brain
-    - title: Bachelor's degree in Biomedical Engineering
-      institution: School of Life Science and Technology, Xi'an Jiaotong University
-      year: 2009 - 2013
-      description:
-        - Thesis - EEG functional connectivity of vascular dementia patients in an oddball task
+  sections:
+    Experience:
+      - company: Department of Psychology, University of Jyväskylä
+        position: Postdoctoral Researcher
+        start_date: 2022
+        end_date: 2025
+        highlights:
+          - Research topics - The reorganization of memory representations during rest and sleep
+      - company: Department of Psychology, University of Jyväskylä
+        position: Postdoctoral Researcher
+        start_date: 2020
+        end_date: 2022
+        highlights:
+          - Research topics - Bodily rhythms and learning
+      - company: Department of Psychology, University of Jyväskylä
+        position: Doctoral Student
+        start_date: 2015
+        end_date: 2020
+        highlights:
+          - Research topics - Brain activity changes related to learning of audiovisual associations in reading
 
-- title: Conferences
-  type: time_table
-  contents:
-    - title: ICON 2025
-      year: 2025
-      description:
-        - Oral talk in symposium - The learning brain across the lifespan neural resources, imaging indicators and relevance for cognitive competence
-    - title: FENS 2024
-      year: 2024
-      description:
-        - Poster
-    - title: Synchrony summer school 2024
-      year: 2024
-      description:
-        - Poster
+    Education:
+      - institution: Department of Psychology, University of Jyväskylä
+        studyType: Doctor of Philosophy
+        start_date: 2015
+        end_date: 2020
+        highlights:
+          - Thesis - Brain activity changes related to learning of audiovisual associations in reading
+      - institution: Institute of Biomedical Engineering, Xi'an Jiaotong University
+        studyType: Master's degree in Biomedical Engineering
+        start_date: 2013
+        end_date: 2015
+        highlights:
+          - Thesis - Functional connectivity and complex network analysis of the aging brain
+      - institution: School of Life Science and Technology, Xi'an Jiaotong University
+        studyType: Bachelor's degree in Biomedical Engineering
+        start_date: 2009
+        end_date: 2013
+        highlights:
+          - Thesis - EEG functional connectivity of vascular dementia patients in an oddball task
 
-- title: Funding
-  type: time_table
-  contents:
-    - year: 2022 - 2025
-      items:
-        - Academy of Finland Postdoctoral project
+    Conferences:
+      - name: ICON 2025
+        date: 2025
+        highlights:
+          - Oral talk in symposium - The learning brain across the lifespan neural resources, imaging indicators and relevance for cognitive competence
+      - name: FENS 2024
+        date: 2024
+        highlights:
+          - Poster
+      - name: Synchrony summer school 2024
+        date: 2024
+        highlights:
+          - Poster
 
-- title: Awards and honours
-  type: time_table
-  contents:
-    - year: 2017
-      items:
-        - Winner of the best poster competition in Annual Research Seminar of Centre for Interdisciplinary Brain Research (CIBR)
-    - year: 2010 - 2013
-      items:
-        - Siyuan Student Scholarship (Xi'an Jiaotong University)
+    Funding:
+      - name: Academy of Finland Postdoctoral project
+        date: 2022
 
-- title: Teaching
-  type: time_table
-  contents:
-    - year: 2023
-      items:
-        - PSYS2102 Master's thesis ending seminar
-    - year: 2022
-      items:
-        - CNSJ1202 Designing cognitive neuroscience research (instructor)
-        - CIBA120 EEG data analysis Demo using MNE Python
-    - year: 2021
-      items:
-        - CIPA113 Bilingual Development (essays grading)
-        - CIPA112 Psychology of Language (essays grading)
-    - year: 2019
-      items:
-        - CIPA213 Developmental Language Related Disorders (instructor)
-    - year: 2016 - 2019
-      items:
-        - CIPA100 Psychology Research at JYU (essays grading)
-    - year: 2017
-      items:
-        - PSYS123 Neuropsychology 3B MEG demonstrations (instructor)
-    - year: 2016
-      items:
-        - Introduction to scripting experiments with Presentation (instructor)
+    Awards:
+      - name: Winner of the best poster competition in Annual Research Seminar of Centre for Interdisciplinary Brain Research (CIBR)
+        date: 2017
+      - name: Siyuan Student Scholarship (Xi'an Jiaotong University)
+        date: 2010
 
-- title: Service
-  type: nested_list
-  contents:
-    - title: Ad Hoc Reviewer
-      items:
-        - NeuroImage
-        - Frontiers in Psychology
-        - Journal of Neuroscience
-        - Child Development
-        - Journal of Neurolinguistics
-        - Computer Methods and Programs in Biomedicine
-        - Acta Psychologica
-        - npj Science of Learning
-        - Journal of Open Source Software
+    Teaching:
+      - name: PSYS2102 Master's thesis ending seminar
+        date: 2023
+      - name: CNSJ1202 Designing cognitive neuroscience research (instructor)
+        date: 2022
+      - name: CIBA120 EEG data analysis Demo using MNE Python
+        date: 2022
+      - name: CIPA113 Bilingual Development (essays grading)
+        date: 2021
+      - name: CIPA112 Psychology of Language (essays grading)
+        date: 2021
+      - name: CIPA213 Developmental Language Related Disorders (instructor)
+        date: 2019
+      - name: CIPA100 Psychology Research at JYU (essays grading)
+        date: 2016
+      - name: PSYS123 Neuropsychology 3B MEG demonstrations (instructor)
+        date: 2017
+      - name: Introduction to scripting experiments with Presentation (instructor)
+        date: 2016
+
+    Service:
+      - name: Ad Hoc Reviewer
+        highlights:
+          - NeuroImage
+          - Frontiers in Psychology
+          - Journal of Neuroscience
+          - Child Development
+          - Journal of Neurolinguistics
+          - Computer Methods and Programs in Biomedicine
+          - Acta Psychologica
+          - npj Science of Learning
+          - Journal of Open Source Software
