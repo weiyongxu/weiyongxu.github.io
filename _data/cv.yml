@@ -1,109 +1,127 @@
 cv:
   name: Weiyong Xu
-  label: Postdoctoral Researcher
+  label: Postdoctoral Researcher in Cognitive Neuroscience
   email: weiyong.w.xu@jyu.fi
-  location: Jyväskylä, Finland
-  phone: "+358468448471"
+  phone: '+358468448471'
   website: https://weiyongxu.github.io/
-
+  address:
+    city: Jyväskylä
+    region: Finland
   social_networks:
-    - network: ORCID
-      username: 0000-0003-4453-9836
-
+  - network: GitHub
+    username: weiyongxu
+  - network: ORCID
+    username: 0000-0003-4453-9836
   sections:
+    Research Interests:
+    - label: Topics
+      details: Memory reorganization, Sleep and Rest, Bodily Rhythms and Learning, Audiovisual Learning
+    - label: Methods
+      details: MEG, EEG, Machine Learning, Calcium Imaging (One-photon), Behavioral Measures
     Experience:
-      - company: Department of Psychology, University of Jyväskylä
-        position: Postdoctoral Researcher
-        start_date: 2022
-        end_date: 2025
-        highlights:
-          - Research topics - The reorganization of memory representations during rest and sleep
-      - company: Department of Psychology, University of Jyväskylä
-        position: Postdoctoral Researcher
-        start_date: 2020
-        end_date: 2022
-        highlights:
-          - Research topics - Bodily rhythms and learning
-      - company: Department of Psychology, University of Jyväskylä
-        position: Doctoral Student
-        start_date: 2015
-        end_date: 2020
-        highlights:
-          - Research topics - Brain activity changes related to learning of audiovisual associations in reading
-
+    - company: Department of Psychology, University of Jyväskylä
+      position: Postdoctoral Researcher
+      location: Finland
+      start_date: 2022-09
+      end_date: 2025-08
+      highlights:
+      - 'Project: The reorganization of memory representations during rest and sleep'
+      - Study memory reorganization during rest and sleep using human neuroimaging methods (MEG/EEG), machine learning, and
+        animal models (One-photon calcium imaging in mice).
+    - company: Department of Psychology, University of Jyväskylä
+      position: Postdoctoral Researcher
+      location: Finland
+      start_date: 2020-09
+      end_date: 2022-08
+      highlights:
+      - 'Project: Bodily rhythms and learning'
+      - 'Investigated the interaction between physiological rhythms (such as heartbeat and breathing) and learning processes
+        using behavioral and brain measures (M/EEG) in the Academy of Finland project "Optimizing Learning: Synchrony of the
+        Brain and Body as a Tool?" (Dr. Miriam Nokia''s group).'
+    - company: Department of Psychology, University of Jyväskylä
+      position: Doctoral Student
+      location: Finland
+      start_date: 2015-09
+      end_date: 2020-09
+      highlights:
+      - 'Project: Brain activity changes related to learning of audiovisual associations in reading'
     Education:
-      - institution: Department of Psychology, University of Jyväskylä
-        studyType: Doctor of Philosophy
-        start_date: 2015
-        end_date: 2020
-        highlights:
-          - Thesis - Brain activity changes related to learning of audiovisual associations in reading
-      - institution: Institute of Biomedical Engineering, Xi'an Jiaotong University
-        studyType: Master's degree in Biomedical Engineering
-        start_date: 2013
-        end_date: 2015
-        highlights:
-          - Thesis - Functional connectivity and complex network analysis of the aging brain
-      - institution: School of Life Science and Technology, Xi'an Jiaotong University
-        studyType: Bachelor's degree in Biomedical Engineering
-        start_date: 2009
-        end_date: 2013
-        highlights:
-          - Thesis - EEG functional connectivity of vascular dementia patients in an oddball task
-
-    Conferences:
-      - name: ICON 2025
-        date: 2025
-        highlights:
-          - Oral talk in symposium - The learning brain across the lifespan neural resources, imaging indicators and relevance for cognitive competence
-      - name: FENS 2024
-        date: 2024
-        highlights:
-          - Poster
-      - name: Synchrony summer school 2024
-        date: 2024
-        highlights:
-          - Poster
-
+    - institution: University of Jyväskylä
+      studyType: Doctor of Philosophy
+      area: Psychology
+      location: Finland
+      start_date: '2015'
+      end_date: '2020'
+      highlights:
+      - 'Thesis: Brain activity changes related to learning of audiovisual associations in reading'
+    - institution: Xi'an Jiaotong University
+      studyType: Master's degree in Biomedical Engineering
+      area: Biomedical Engineering
+      location: China
+      start_date: '2013'
+      end_date: '2015'
+      highlights:
+      - 'Thesis: Functional connectivity and complex network analysis of the aging brain'
+    - institution: Xi'an Jiaotong University
+      studyType: Bachelor's degree in Biomedical Engineering
+      area: Life Science and Technology
+      location: China
+      start_date: '2009'
+      end_date: '2013'
+      highlights:
+      - 'Thesis: EEG functional connectivity of vascular dementia patients in an oddball task'
     Funding:
-      - name: Academy of Finland Postdoctoral project
-        date: 2022
-
-    Awards:
-      - name: Winner of the best poster competition in Annual Research Seminar of Centre for Interdisciplinary Brain Research (CIBR)
-        date: 2017
-      - name: Siyuan Student Scholarship (Xi'an Jiaotong University)
-        date: 2010
-
-    Teaching:
-      - name: PSYS2102 Master's thesis ending seminar
-        date: 2023
-      - name: CNSJ1202 Designing cognitive neuroscience research (instructor)
-        date: 2022
-      - name: CIBA120 EEG data analysis Demo using MNE Python
-        date: 2022
-      - name: CIPA113 Bilingual Development (essays grading)
-        date: 2021
-      - name: CIPA112 Psychology of Language (essays grading)
-        date: 2021
-      - name: CIPA213 Developmental Language Related Disorders (instructor)
-        date: 2019
-      - name: CIPA100 Psychology Research at JYU (essays grading)
-        date: 2016
-      - name: PSYS123 Neuropsychology 3B MEG demonstrations (instructor)
-        date: 2017
-      - name: Introduction to scripting experiments with Presentation (instructor)
-        date: 2016
-
-    Service:
-      - name: Ad Hoc Reviewer
-        highlights:
-          - NeuroImage
-          - Frontiers in Psychology
-          - Journal of Neuroscience
-          - Child Development
-          - Journal of Neurolinguistics
-          - Computer Methods and Programs in Biomedicine
-          - Acta Psychologica
-          - npj Science of Learning
-          - Journal of Open Source Software
+    - label: Academy of Finland Postdoctoral project
+      details: Principal Investigator, 2022-2025, 234,782 EUR
+    Honors and Awards:
+    - title: Winner of the best poster competition
+      awarder: Annual Research Seminar of Centre for Interdisciplinary Brain Research (CIBR)
+      date: '2017'
+    - title: Siyuan Student Scholarship
+      awarder: Xi'an Jiaotong University
+      date: '2010'
+      summary: 2010-2013
+    Skills:
+    - name: Programming
+      keywords:
+      - Python
+      - MATLAB
+      - R
+    - name: Neuroimaging
+      keywords:
+      - MEG analysis (MNE-Python, FieldTrip)
+      - EEG analysis
+      - Calcium imaging analysis
+      - Machine learning for neuroimaging
+    - name: Tools
+      keywords:
+      - Git/GitHub
+      - LaTeX
+      - Linux/Unix
+    Publications:
+    - title: Neural signatures of automatic letter--speech sound integration in literate adults
+      date: '2025'
+      publisher: Imaging Neuroscience
+      summary: '**Weiyong Xu**, Xueqiao Li, Orsolya Kolozsvari, Aino Sorsa, Miriam Nokia, Jarmo Hämäläinen'
+      url: https://doi.org/10.1162/imag.a.1021
+    - title: Neural correlates of retrospective memory confidence during face--name associative learning
+      date: '2024'
+      publisher: Cerebral Cortex
+      summary: '**Weiyong Xu**, Xueqiao Li, Tiina Parviainen, Miriam Nokia'
+      url: https://doi.org/10.1093/cercor/bhae194
+    - title: Rapid changes in brain activity during learning of grapheme-phoneme associations in adults
+      date: '2020'
+      publisher: NeuroImage
+      summary: '**Weiyong Xu**, Orsolya Beatrix Kolozsvári, Robert Oostenveld, Jarmo Arvid Hämäläinen'
+      url: https://doi.org/10.1016/j.neuroimage.2020.117058
+    - title: Audiovisual processing of chinese characters elicits suppression and congruency effects in MEG
+      date: '2019'
+      publisher: Frontiers in human neuroscience
+      summary: '**Weiyong Xu**, Orsolya Beatrix Kolozsvári, Robert Oostenveld, Paavo Herman Tapio Leppänen, Jarmo Arvid Hämäläinen'
+      url: https://doi.org/10.3389/fnhum.2019.00018
+    - title: Brain responses to letters and speech sounds and their correlations with cognitive skills related to reading
+        in children
+      date: '2018'
+      publisher: Frontiers in human neuroscience
+      summary: '**Weiyong Xu**, Orsolya B Kolozsvari, Simo P Monto, Jarmo A Hämäläinen'
+      url: https://doi.org/10.3389/fnhum.2018.00304
