@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Short site summary. Use the PDF button for the full CV.",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -417,12 +417,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-received-a-three-year-postdoctoral-researcher-funding-from-the-academy-of-finland",
           title: 'I received a three year Postdoctoral Researcher Funding from the Academy of Finland!🚀...',
           description: "",
-          section: "News",},{id: "projects-project-10",
-          title: 'project 10',
-          description: "A project with an introduction section",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
