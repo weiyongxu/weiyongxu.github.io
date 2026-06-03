@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-06-03'
 papers:
   IwQ2wdsAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Dynamic changes in electrical brain activity during passive learning of foreign speech sound discrimination
     year: '2025'
   IwQ2wdsAAAAJ:8k81kl-MbHgC:
-    citations: 27
+    citations: 28
     title: Cardiac cycle and respiration phase affect responses to the conditioned stimulus in young adults trained in trace eyeblink conditioning
     year: '2022'
   IwQ2wdsAAAAJ:KlAtU1dfN6UC:
@@ -30,9 +30,13 @@ papers:
     title: "Optimizing learning-synchrony of the brain and body as a tool? Aivojen ja kehon synkronia oppimisen optimoimisen ty\xF6kaluna"
     year: '2024'
   IwQ2wdsAAAAJ:UeHWp8X0CEIC:
-    citations: 24
+    citations: 25
     title: Audiovisual processing of Chinese characters elicits suppression and congruency effects in MEG
     year: '2019'
+  IwQ2wdsAAAAJ:Wp0gIr-vW9MC:
+    citations: 0
+    title: Reorganization of Memory Representations During Rest and Sleep
+    year: '2026'
   IwQ2wdsAAAAJ:YsMSGLbcyi4C:
     citations: 5
     title: Top-down predictions of familiarity and congruency in audio-visual speech perception at neural level
@@ -62,7 +66,7 @@ papers:
     title: Cardiorespiratory rhythm-contingent trace eyeblink conditioning in elderly adults
     year: '2024'
   IwQ2wdsAAAAJ:qjMakFHDy7sC:
-    citations: 26
+    citations: 27
     title: Aging-related changes of EEG synchronization during a visual working memory task
     year: '2018'
   IwQ2wdsAAAAJ:qxL8FJ1GzNcC:
