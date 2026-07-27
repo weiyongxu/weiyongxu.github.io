@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-27'
 papers:
   IwQ2wdsAAAAJ:4DMP91E08xMC:
     citations: 0
     title: "Magnetoencephalography Source Connectivity Pipeline Reveals Long\u2010Range Connectivity in Audio\u2010Visual Integration"
     year: '2026'
   IwQ2wdsAAAAJ:4TOpqqG69KYC:
-    citations: 3
+    citations: 4
     title: Dynamic changes in electrical brain activity during passive learning of foreign speech sound discrimination
     year: '2025'
   IwQ2wdsAAAAJ:8k81kl-MbHgC:
@@ -14,15 +14,19 @@ papers:
     title: Cardiac cycle and respiration phase affect responses to the conditioned stimulus in young adults trained in trace eyeblink conditioning
     year: '2022'
   IwQ2wdsAAAAJ:KlAtU1dfN6UC:
-    citations: 4
+    citations: 5
     title: "Neural correlates of retrospective memory confidence during face\u2013name associative learning"
     year: '2024'
   IwQ2wdsAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: Brain activity changes related to learning of audiovisual associations in reading
     year: '2020'
+  IwQ2wdsAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: 'Cortical dynamics of icon perception: effects of concreteness and attractiveness'
+    year: '2026'
   IwQ2wdsAAAAJ:Se3iqnhoufwC:
-    citations: 18
+    citations: 19
     title: Coherence between brain activation and speech envelope at word and sentence levels showed age-related differences in low frequency bands
     year: '2021'
   IwQ2wdsAAAAJ:ULOm3_A8WrAC:
@@ -82,6 +86,6 @@ papers:
     title: "Assay of melamine in milk products with a pH\u2010mediated stacking technique in capillary electrophoresis"
     year: '2014'
   IwQ2wdsAAAAJ:ufrVoPGSRksC:
-    citations: 31
+    citations: 32
     title: Rapid changes in brain activity during learning of grapheme-phoneme associations in adults
     year: '2020'
