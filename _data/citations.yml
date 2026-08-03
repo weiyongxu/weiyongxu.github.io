@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   IwQ2wdsAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Cardiac cycle and respiration phase affect responses to the conditioned stimulus in young adults trained in trace eyeblink conditioning
     year: '2022'
   IwQ2wdsAAAAJ:KlAtU1dfN6UC:
-    citations: 5
+    citations: 6
     title: "Neural correlates of retrospective memory confidence during face\u2013name associative learning"
     year: '2024'
   IwQ2wdsAAAAJ:LkGwnXOMwfcC:
@@ -31,7 +31,7 @@ papers:
     year: '2021'
   IwQ2wdsAAAAJ:ULOm3_A8WrAC:
     citations: 0
-    title: "Optimizing learning-synchrony of the brain and body as a tool? Aivojen ja kehon synkronia oppimisen optimoimisen ty\xF6kaluna"
+    title: Optimizing learning-synchrony of the brain and body as a tool?
     year: '2024'
   IwQ2wdsAAAAJ:UeHWp8X0CEIC:
     citations: 25
@@ -42,7 +42,7 @@ papers:
     title: Reorganization of Memory Representations During Rest and Sleep
     year: '2026'
   IwQ2wdsAAAAJ:YsMSGLbcyi4C:
-    citations: 5
+    citations: 6
     title: Top-down predictions of familiarity and congruency in audio-visual speech perception at neural level
     year: '2019'
   IwQ2wdsAAAAJ:Zph67rFs4hoC:
@@ -78,7 +78,7 @@ papers:
     title: 'Two-Day Artificial Orthography Learning MEG Dataset: From Grapheme to Meaning'
     year: '2025'
   IwQ2wdsAAAAJ:u-x6o8ySG0sC:
-    citations: 26
+    citations: 23
     title: Brain responses to letters and speech sounds and their correlations with cognitive skills related to reading in children
     year: '2018'
   IwQ2wdsAAAAJ:u5HHmVD_uO8C:
@@ -86,6 +86,6 @@ papers:
     title: "Assay of melamine in milk products with a pH\u2010mediated stacking technique in capillary electrophoresis"
     year: '2014'
   IwQ2wdsAAAAJ:ufrVoPGSRksC:
-    citations: 32
+    citations: 33
     title: Rapid changes in brain activity during learning of grapheme-phoneme associations in adults
     year: '2020'
