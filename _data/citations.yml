@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-17'
 papers:
   IwQ2wdsAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -61,6 +61,10 @@ papers:
     citations: 0
     title: Development of brain responses to speech sounds and associations with reading and reading related skills in adults with childhood dyslexia
     year: '2026'
+  IwQ2wdsAAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: 'Stable Goals, Dynamic Neural Expression: The Temporal Evolution of Task-Set Representations'
+    year: Unknown Year
   IwQ2wdsAAAAJ:eQOLeE2rZwMC:
     citations: 10
     title: Context-dependent minimisation of prediction errors involves temporal-frontal activation
