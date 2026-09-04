@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-04'
 papers:
   IwQ2wdsAAAAJ:4DMP91E08xMC:
     citations: 0
     title: "Magnetoencephalography Source Connectivity Pipeline Reveals Long\u2010Range Connectivity in Audio\u2010Visual Integration"
     year: '2026'
   IwQ2wdsAAAAJ:4TOpqqG69KYC:
-    citations: 4
+    citations: 5
     title: Dynamic changes in electrical brain activity during passive learning of foreign speech sound discrimination
     year: '2025'
   IwQ2wdsAAAAJ:8k81kl-MbHgC:
@@ -42,7 +42,7 @@ papers:
     title: Reorganization of Memory Representations During Rest and Sleep
     year: '2026'
   IwQ2wdsAAAAJ:YsMSGLbcyi4C:
-    citations: 6
+    citations: 7
     title: Top-down predictions of familiarity and congruency in audio-visual speech perception at neural level
     year: '2019'
   IwQ2wdsAAAAJ:Zph67rFs4hoC:
@@ -90,6 +90,6 @@ papers:
     title: "Assay of melamine in milk products with a pH\u2010mediated stacking technique in capillary electrophoresis"
     year: '2014'
   IwQ2wdsAAAAJ:ufrVoPGSRksC:
-    citations: 33
+    citations: 35
     title: Rapid changes in brain activity during learning of grapheme-phoneme associations in adults
     year: '2020'
