@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Peer-reviewed articles, preprints, datasets and research software.
+description: Peer-reviewed articles, preprints and datasets.
 nav: true
 nav_order: 2
 ---
